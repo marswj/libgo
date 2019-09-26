@@ -1,10 +1,11 @@
 package libgo
 
 import (
-	"github.com/satori/go.uuid"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/gofrs/uuid"
 )
 
 func StrToInt(str string) (int, error) {

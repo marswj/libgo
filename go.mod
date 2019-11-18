@@ -1,4 +1,4 @@
-module libgo
+module github.com/marswj/libgo
 
 go 1.13
 
